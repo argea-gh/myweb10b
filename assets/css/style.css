@@ -928,17 +928,17 @@ body {
 }
 
 /* Mobile: tampilkan di bawah logo */
-@media (max-width: 768px) {
-/*  .header-inner {
+/* @media (max-width: 768px) {
+  .header-inner {
     flex-direction: column;
     gap: 8px;
     text-align: center;
-  } */
+  }
   .site-title {
     margin-left: 0;
     font-size: 1.4rem;
   }
-}
+}  */
 
 /* ────────────────────────────────────────── */
 /* SCROLL TO TOP BUTTON */
