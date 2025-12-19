@@ -167,6 +167,17 @@ body {
   transition: var(--transition);
 }
 
+/* ─ Hilangkan garis link - */
+.header .logo,
+.header .logo .site-title {
+  text-decoration: none !important;
+}
+
+.header .logo:hover,
+.header .logo .site-title:hover {
+  text-decoration: none !important;
+}
+
 /* ────────────────────────────────────────── */
 /* HERO */
 /* ────────────────────────────────────────── */
